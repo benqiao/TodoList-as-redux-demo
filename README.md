@@ -7,4 +7,4 @@ npm install
 npm run server
 ```
 
-# open ``http://localhost:3000/`` in browser.
+# open ``http://localhost:3000/``   in browser.
